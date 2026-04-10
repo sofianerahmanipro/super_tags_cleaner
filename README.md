@@ -1,6 +1,6 @@
 # Super Tags Cleaner
 
-![Version](https://img.shields.io/badge/version-1.2.0-orange?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.2.6-orange?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-16.2-black?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/React-19.2-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
